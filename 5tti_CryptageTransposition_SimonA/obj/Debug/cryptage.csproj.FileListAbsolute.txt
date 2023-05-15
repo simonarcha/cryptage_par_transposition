@@ -1,0 +1,7 @@
+C:\Users\sar20\Documents\1 code\cryptage\5tti_CryptageTransposition_SimonA\bin\Debug\cryptage.exe.config
+C:\Users\sar20\Documents\1 code\cryptage\5tti_CryptageTransposition_SimonA\bin\Debug\cryptage.exe
+C:\Users\sar20\Documents\1 code\cryptage\5tti_CryptageTransposition_SimonA\bin\Debug\cryptage.pdb
+C:\Users\sar20\Documents\1 code\cryptage\5tti_CryptageTransposition_SimonA\obj\Debug\cryptage.csproj.AssemblyReference.cache
+C:\Users\sar20\Documents\1 code\cryptage\5tti_CryptageTransposition_SimonA\obj\Debug\cryptage.csproj.CoreCompileInputs.cache
+C:\Users\sar20\Documents\1 code\cryptage\5tti_CryptageTransposition_SimonA\obj\Debug\cryptage.exe
+C:\Users\sar20\Documents\1 code\cryptage\5tti_CryptageTransposition_SimonA\obj\Debug\cryptage.pdb
